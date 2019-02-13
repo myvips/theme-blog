@@ -1,3 +1,5 @@
+20190213 Memo vuetify theme from https://vuetifyjs.com/zh-Hans/themes/premium - by myvips
+
 # theme-blog
 
 ## Project setup
